@@ -6,7 +6,7 @@
 * Firebase Cloud Messaging
 * Retrofit
 
-<img src="screenshoot.png" width="30%">
+<img src="screenshoot.png" width="70%">
 
 ### Reference
 * https://www.youtube.com/watch?v=HoFWPPv1ih8
